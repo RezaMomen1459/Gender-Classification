@@ -26,7 +26,7 @@ This repository demonstrates the application of **Transfer Learning** in Compute
 
 ## 🛠️ Tech Stack & Tools
 
-- **Language:** Python 3.x
+- **Language:** Python 3.13.9
 - **Frameworks:** TensorFlow / Keras
 - **Computer Vision & Math:** OpenCV, NumPy, Pandas
 - **Visualization:** Matplotlib, Seaborn
